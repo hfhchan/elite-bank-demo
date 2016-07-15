@@ -31,6 +31,13 @@ hr{border:0;border-top:1px solid #999;display:block;margin:16px 8px}
 #section2 .search_cri select{font-family:inherit;font-size:16px;width:100%;padding:4px}
 #section2 #search_submit{margin:0 auto;font-family:inherit;font-size:16px;padding:8px 16px;display:block}
 
+
+#section3{background:#eee}
+#section3 .dashboard-card{padding:16px;line-height:1.2;font-size:14px;margin:8px;box-shadow:0 0 2px #ccc;background:#fff;border-radius:2px}
+#section3 .dashboard-row{display:flex;align-items:baseline}
+#section3 .dashboard-row div{flex:1 1 auto;padding:0 4px}
+#section3 .dashboard-row div:first-child{width:56px;flex:none;text-align:right;color:#999}
+
 #section4 .product{height:56px;border-bottom:1px solid rgba(0,0,0,.54);display:flex}
 #section4 .product_img{height:56px;width:56px;flex:none}
 #section4 .product_img img{height:56px;width:56px;object-fit:contain;display:block}
